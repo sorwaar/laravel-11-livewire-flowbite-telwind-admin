@@ -26,11 +26,6 @@
 5. Run `php artisan serve`
 6. Visit `http://localhost:8000` in your browser
 
-## Developers
-
-- [Sorwar Hossain](https://github.com/sorwaar)
-- [Pranto Roy](https://github.com/devprantoroy)
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
